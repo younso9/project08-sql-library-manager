@@ -1,25 +1,27 @@
 {
-  "name": "project08-sql-library-manager",
+  "name": "testing123",
   "version": "1.0.0",
-  "description": "sql-library-manager",
+  "description": "testing123",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/younso9/project08-sql-library-manager.git"
+    "url": "git+https://github.com/martyv4/testing123.git"
   },
   "author": "Sage",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/younso9/project08-sql-library-manager/issues"
+    "url": "https://github.com/martyv4/testing123/issues"
   },
-  "homepage": "https://github.com/younso9/project08-sql-library-manager#readme",
+  "homepage": "https://github.com/martyv4/testing123#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-validator": "^6.1.1",
     "pug": "^2.0.4",
     "sequelize": "^5.17.0",
+    "sequelize-cli": "^5.5.0",
     "sqlite3": "^4.1.0"
   }
 }
