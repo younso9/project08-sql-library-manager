@@ -1,0 +1,25 @@
+{
+  "name": "project08-sql-library-manager",
+  "version": "1.0.0",
+  "description": "sql-library-manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younso9/project08-sql-library-manager.git"
+  },
+  "author": "Sage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/younso9/project08-sql-library-manager/issues"
+  },
+  "homepage": "https://github.com/younso9/project08-sql-library-manager#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "sequelize": "^5.17.0",
+    "sqlite3": "^4.1.0"
+  }
+}
